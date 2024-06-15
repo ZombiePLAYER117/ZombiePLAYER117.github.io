@@ -1,0 +1,88 @@
+body{
+    background-image: url("../pics/bg1.jpg");
+    background-size: cover;
+
+}
+h1{
+text-align: center;
+font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+        
+    }
+a{
+    color: black;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+    color: darkmagenta;
+}
+#p1{
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    left: 15%;
+
+}
+#p2{
+    position: relative;
+    left: 33%;
+    width: 500px;
+    height: 800px;
+}
+p{
+    font-size: 26px;
+
+}
+#d1{
+    position: relative;
+    left: 19%;
+    width: 1000px;
+    font-size: 30px;
+    
+}
+#d2{
+    position: relative;
+    left: 19%;
+    width: 1000px;
+    font-size: 30px;
+}
+#d3{
+    position: relative;
+    left: 19%;
+    width: 1000px;
+    font-size: 30px;
+}
+#p3{
+    position: relative;
+    left: 33%;
+    width: 500px;
+    height: 800px;
+}
+#p44{
+    position: relative;
+    left: 23%;
+}
+#d4{
+    position: relative;
+    left: 19%;
+    width: 1000px;
+    font-size: 30px;
+}
+#d5{
+    position: relative;
+    left: 16%;
+    
+    width: 1000px;
+    font-size: 30px;
+}
+#au1{
+    position: relative;
+    left: 42%;
+    height: 20px;
+    width: 200px;
+}
